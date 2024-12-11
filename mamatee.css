@@ -1,0 +1,488 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.call{
+    margin-left: 40px;
+    margin-top: -15px;
+    font-size: 15px;
+}
+.you{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.email{
+    margin-left: 160px;
+    margin-top: -18px;
+}
+.facebook{
+    margin-top: -20px;
+    float: right;
+}
+.logo img{
+   width: 10%; 
+}
+.contact{
+    background-color: blue;
+    border-radius: 3px;
+    padding: 10px;
+    float: right;
+    margin-top: -100px;
+    color: white;
+}
+.contact:hover{
+    background-color: white;
+    color: black;
+}
+.intro{
+    margin-left: 60px;
+    font-size: 25px;
+}
+.another img{
+    float: right;
+    margin-right: 40px;
+    width: 30%;
+    height: 80%;
+    animation-direction: normal;
+    animation: infinite;   
+}
+.para{
+    font-size: 30px;
+    letter-spacing: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.page{
+    font-size: 30px;
+    letter-spacing: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.about{
+    margin-left: 170px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.who{
+    margin-left: 50px;
+}
+.me{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.what{
+    margin-left: 50px;
+    font-size: 25px;
+}
+.offer{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.more{
+    margin-left: 50px;
+    font-size: 30px;
+}
+.explore{
+    margin-left: 250px;
+    padding: 15px;
+    width: 200px;
+    background-color: white;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.explore:hover{
+    background-color: black;
+    color: white;
+}
+.in{
+    margin-left: 100px;
+    font-size: 25px;
+}
+.touch{
+    margin-left: 200px;
+    font-size: 20px;
+}
+.toyin{
+    margin-left: 200px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.okay{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+.yeah{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-size: 25px;
+}
+@media screen and (max-width:768px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .call{
+        margin-left: 40px;
+        margin-top: -15px;
+        font-size: 15px;
+    }
+    .you{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .email{
+        margin-left: 160px;
+        margin-top: -18px;
+    }
+    .facebook{
+        margin-top: -20px;
+        float: right;
+    }
+    .logo img{
+       width: 10%; 
+    }
+    .contact{
+        background-color: blue;
+        border-radius: 3px;
+        padding: 10px;
+        float: right;
+        margin-top: -70px;
+        color: white;
+    }
+    .contact:hover{
+        background-color: white;
+        color: black;
+    }
+    .intro{
+        margin-left: 60px;
+        font-size: 25px;
+    }
+    .another img{
+        float: right;
+        margin-right: 40px;
+        width: 30%;
+        height: 80%;
+    }
+    .para{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .page{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .about{
+        margin-left: 200px;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .who{
+        margin-left: 150px;
+    }
+    .me{
+        font-size: 20px;
+        margin-left: 70px;
+    }
+    .what{
+        margin-left: 300px;
+        font-size: 25px;
+    }
+    .offer{
+        margin-left: 10px;
+        font-size: 20px;
+    }
+    .more{
+        margin-left: 70px;
+        font-size: 30px;
+    }
+    .explore{
+        margin-left: 300px;
+        padding: 15px;
+        width: 200px;
+        background-color: white;
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        text-decoration: none;
+    }
+    .explore:hover{
+        background-color: black;
+        color: white;
+    }
+    .in{
+        margin-left: 100px;
+        font-size: 25px;
+    }
+    .touch{
+        margin-left: 250px;
+        font-size: 20px;
+    }
+    .toyin{
+        margin-left: 200px;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .okay{
+        margin-left: 200px;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .yeah{
+        margin-left: 200px;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:500px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .call{
+        margin-left: 40px;
+        margin-top: -15px;
+        font-size: 10px;
+    }
+    .you{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email{
+        margin-left: 180px;
+        margin-top: -15px;
+        font-size: 10px;
+    }
+    .facebook{
+        margin-top: 10px;
+        float: right;
+    }
+    .logo img{
+       width: 20%; 
+       margin-top: 20px;
+    }
+    .contact{
+        background-color: blue;
+        border-radius: 3px;
+        padding: 10px;
+        float: right;
+        margin-top: -60px;
+        color: white;
+    }
+    .contact:hover{
+        background-color: white;
+        color: black;
+    }
+    .intro{
+        margin-left: 60px;
+        font-size: 25px;
+    }
+    .another img{
+        float: right;
+        margin-right: 40px;
+        width: 30%;
+        height: 80%;
+    }
+    .para{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .page{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .about{
+        margin-left: 150px;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .who{
+        margin-left: 150px;
+    }
+    .me{
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .what{
+        margin-left: 130px;
+        font-size: 25px;
+    }
+    .offer{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .more{
+        margin-left: 70px;
+        font-size: 30px;
+    }
+    .explore{
+        margin-left: 150px;
+        padding: 15px;
+        width: 200px;
+        background-color: white;
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        text-decoration: none;
+    }
+    .explore:hover{
+        background-color: black;
+        color: white;
+    }
+    .in{
+        margin-left: 100px;
+        font-size: 25px;
+    }
+    .touch{
+        margin-left: 150px;
+        font-size: 20px;
+    }
+    .toyin{
+        margin-left: 50px;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .okay{
+        margin-left: 50px;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .yeah{
+        margin-left: 50px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:400px) {
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .call{
+        margin-left: 40px;
+        margin-top: -15px;
+        font-size: 10px;
+    }
+    .you{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .email{
+        margin-left: 180px;
+        margin-top: -15px;
+        font-size: 10px;
+    }
+    .facebook{
+        margin-top: 10px;
+        float: right;
+    }
+    .logo img{
+       width: 20%; 
+       margin-top: 20px;
+    }
+    .contact{
+        background-color: blue;
+        border-radius: 3px;
+        padding: 10px;
+        float: right;
+        margin-top: -60px;
+        color: white;
+    }
+    .contact:hover{
+        background-color: white;
+        color: black;
+    }
+    .intro{
+        margin-left: 60px;
+        font-size: 25px;
+    }
+    .another img{
+        float: right;
+        margin-right: 40px;
+        width: 30%;
+        height: 80%;
+    }
+    .para{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .page{
+        font-size: 30px;
+        letter-spacing: normal;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .about{
+        margin-left: 50px;
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .who{
+        margin-left: 110px;
+    }
+    .me{
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    .what{
+        margin-left: 110px;
+        font-size: 25px;
+    }
+    .offer{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .more{
+        margin-left: 15px;
+        font-size: 15px;
+    }
+    .explore{
+        margin-left: 100px;
+        padding: 15px;
+        width: 200px;
+        background-color: white;
+        color: white;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        text-decoration: none;
+    }
+    .explore:hover{
+        background-color: black;
+        color: white;
+    }
+    .in{
+        margin-left: 70px;
+        font-size: 20px;
+    }
+    .touch{
+        margin-left: 80px;
+        font-size: 20px;
+    }
+    .toyin{
+        margin-left: 55px;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .okay{
+        margin-left: 55px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    .yeah{
+        margin-left: 55px;
+        margin-top: 30px;
+        font-size: 15px;
+    }
+}

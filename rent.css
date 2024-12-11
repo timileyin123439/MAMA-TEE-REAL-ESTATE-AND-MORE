@@ -1,0 +1,148 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.the{
+    margin-left: 10px;
+    font-size: 25px;
+    color: green;
+}
+.beb img{
+    margin-right: auto;
+    margin-left: auto;
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+}
+.ok img{
+    margin-right: 0;
+    height: 100%; 
+    width: 100%;
+    margin-top: 50px;
+}
+.kk img{
+    margin-right: 0;
+    height: 100%; 
+    width: 100%;
+    margin-top: 50px;
+}
+.like img{
+    margin-right: 0;
+    height: 100%;
+    width: 100%;  
+    margin-top: 50px;
+}
+.follow img{
+    margin-right: 0;
+    margin-left: 0;
+    height: 100%;  
+    width: 100%;
+    margin-top: 50px;
+}
+.more{
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 40px;
+    color: blue;
+}
+@media screen and (max-width:770px) {
+    body{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+    .the{
+        margin-left: 10px;
+        font-size: 25px;
+        color: green;
+    }
+    .beb img{
+        margin-right: auto;
+        margin-left: auto;
+        height: 100%;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .ok img{
+        margin-right: 0;
+        height: 100%; 
+        width: 100%;
+        margin-top: 50px;
+    }
+    .kk img{
+        margin-right: 0;
+        height: 100%; 
+        width: 100%;
+        margin-top: 50px;
+    }
+    .like img{
+        margin-right: 0;
+        height: 100%;
+        width: 100%;  
+        margin-top: 50px;
+    }
+    .follow img{
+        margin-right: 0;
+        margin-left: 0;
+        height: 100%;  
+        width: 100%;
+        margin-top: 50px;
+    }
+    .more{
+        margin-top: 10px;
+        margin-left: 100px;
+        font-size: 40px;
+        color: blue;
+    }
+}
+@media screen and (max-width:500px) {
+    body{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+    .the{
+        margin-left: 10px;
+        font-size: 25px;
+        color: green;
+    }
+    .beb img{
+        margin-right: auto;
+        margin-left: auto;
+        height: 100%;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .ok img{
+        margin-right: 0;
+        height: 100%; 
+        width: 100%;
+        margin-top: 50px;
+    }
+    .kk img{
+        margin-right: 0;
+        height: 100%; 
+        width: 100%;
+        margin-top: 50px;
+    }
+    .like img{
+        margin-right: 0;
+        height: 100%;
+        width: 100%;  
+        margin-top: 50px;
+    }
+    .follow img{
+        margin-right: 0;
+        margin-left: 0;
+        height: 100%;  
+        width: 100%;
+        margin-top: 50px;
+    }
+    .more{
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 15px;
+        color: blue;
+    }
+}
